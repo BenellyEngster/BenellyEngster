@@ -17,9 +17,8 @@
 <br>
 
 ### ✨ Sobre mim:
-- 🌱 Atualmente aprendendo: **Aprofundamento teórico em Inteligência Artificial como Aluna Externa no Mestrado em Ciência da Computação (UTFPR).**
-- 💬 Pergunte-me sobre: **Python, Análise de Dados, Inclusão Digital e Gênero na Computação.**
-- 🚀 Foco: **Desenvolvimento de soluções utilizando IA Aplicada e Análise Analítica.**
+- Atualmente aprendendo: **Aprofundamento teórico em Inteligência Artificial como Aluna Externa no Mestrado em Ciência da Computação (UTFPR).**
+- Interesses: **Python, Análise de Dados, IA Aplicada, Pesquisa em Tecnologia e Inclusão Digital.**
 
 ---
 
@@ -35,5 +34,5 @@
 
 ### 📊 Estatísticas:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBSTITUA_PELO_TEU_USER&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beneees&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
 </p>
