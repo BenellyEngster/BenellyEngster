@@ -1,6 +1,10 @@
 <h1 align="center">Olá! Eu sou Benelly Engster</h1>
 
-<h3 align="center">Pesquisadora em Tecnologia | Foco em Análise de Dados e IA Aplicada</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Pesquisadora+em+Tecnologia;Análise+de+Dados+|+Python;Inteligência+Artificial+Aplicada" alt="Typing SVG" />
+  </a>
+</p>
 
 <br>
 
@@ -18,4 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </p>
-
