@@ -1,6 +1,5 @@
-<h1 align="center">Olá! Eu sou Benelly Engster</h1>
 
-   <p align="center">
+   <p align="ceter">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&desc=Pesquisadora%20em%20Tecnologia%20|%20Dados%20e%20IA&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
 </p>
   </a>
