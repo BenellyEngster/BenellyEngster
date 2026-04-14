@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou Benelly Engster</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Pesquisadora+em+Tecnologia;Análise+de+Dados+|+Python;Inteligência+Artificial+Aplicada" alt="Typing SVG" />
+   <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&desc=Pesquisadora%20em%20Tecnologia%20|%20Dados%20e%20IA&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
+</p>
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### ✨ Sobre mim:
 - 🌱 Atualmente aprendendo: **Aprofundamento teórico em Inteligência Artificial como Aluna Externa no Mestrado em Ciência da Computação (UTFPR).**
-- 💬 Pergunte-me sobre: **Python, Análise de Dados, Inclusão Digital e Gênero na Computação.**
+- 💬 Interesses: **Python, Análise de Dados, Inclusão Digital e Gênero na Computação.**
 - 📫 Como falar comigo: **[LinkedIn](https://www.linkedin.com/in/benelly-engster-22759a381/) ou através do email beneengster@gmail.com**
 
 ---
