@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&desc=Pesquisadora%20em%20Tecnologia%20|%20Dados%20e%20Python%20|%20IA%20Aplicada&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&%20Dados%20e%20Python%20|%20IA%20Aplicada&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
 </p>
 
 <p align="center">
