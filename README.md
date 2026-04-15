@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/benelly-engster-22759a381/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:beneengster@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=beneengster@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="http://lattes.cnpq.br/2320747523056743" target="_blank">
@@ -19,6 +19,9 @@
 ### ✨ Sobre mim:
 - Atualmente aprendendo: **Aprofundamento teórico em Inteligência Artificial como Aluna Externa no Mestrado em Ciência da Computação (UTFPR).**
 - Interesses: **Python, Análise de Dados, IA Aplicada, Pesquisa em Tecnologia e Inclusão Digital.**
+
+### 📫 Contato:
+- 📧 Email: [beneengster@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=beneengster@gmail.com)
 
 ---
 
