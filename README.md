@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&Dados%20e%20Python%20|%20IA%20Aplicada&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&desc=Dados%20e%20Python%20|%20IA%20Aplicada&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
 </p>
 
 <p align="center">
@@ -27,5 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter Notebook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-</p>
