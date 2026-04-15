@@ -20,11 +20,6 @@
 - Atualmente aprendendo: **Aprofundamento teórico em Inteligência Artificial como Aluna Externa no Mestrado em Ciência da Computação (UTFPR).**
 - Interesses: **Python, Análise de Dados, IA Aplicada, Pesquisa em Tecnologia e Inclusão Digital.**
 
-### 📫 Contato:
-- 📧 Email: [beneengster@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=beneengster@gmail.com)
-
----
-
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
